@@ -14,12 +14,12 @@
     "react-dom": "18.3.1",
     "@supabase/supabase-js": "2.49.1"
   },
-  "devDependencies": {
-    "typescript": "5.5.4",
-    "@types/node": "22.0.0",
-    "@types/react": "18.3.5",
-    "@types/react-dom": "18.3.0",
-    "eslint": "9.7.0",
-    "eslint-config-next": "14.2.5"
-  }
+ "devDependencies": {
+  "typescript": "5.5.4",
+  "@types/node": "22.0.0",
+  "@types/react": "18.3.5",
+  "@types/react-dom": "18.3.0",
+  "eslint": "8.57.0",
+  "eslint-config-next": "14.2.5"
+}
 }
